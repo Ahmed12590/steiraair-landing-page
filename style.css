@@ -486,7 +486,7 @@ a.icons:hover {
 
 .testimonial-main-head {
   color: white;
-  font-size: 40px;
+  font-size: 50px;
   margin-bottom: 10px;
 }
 
@@ -569,10 +569,10 @@ a.icons:hover {
 }
 
 @media (max-width: 768px) {
-  .arrow-left,
+  /* .arrow-left,
   .arrow-right {
     display: none;
-  }
+  } */
 
   .testimonial-head {
     font-size: 22px;
