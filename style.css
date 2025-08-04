@@ -234,12 +234,15 @@ a.icons:hover {
 }
 
 .image-container img {
-  width: 380px;
+  width: 400px; /* increase width */
+  height: 350px; /* manually increase height */
+  object-fit: cover; /* ensure image covers the area */
   max-width: 100%;
   border-bottom-right-radius: 100px;
   border-top-left-radius: 100px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
 }
+
 
 /* /////////////////////////////////// */
 
