@@ -30,7 +30,7 @@ body {
 }
 
 .green {
-  color: #2eaa4a;
+  color: #5aa445;
 }
 
 .main-para {
@@ -52,7 +52,7 @@ body {
 }
 
 .buy-btn {
-  background-color: #2eaa4a;
+  background-color: #5aa445;
   color: #fff;
   padding: 14px 32px;
   border-radius: 25px;
@@ -80,7 +80,8 @@ body {
 /* ///////////// */
 
 .second-sec {
-  background: linear-gradient(135deg, #399220 0%, #39a61b 50%, #43b723 100%);
+  /* background: linear-gradient(135deg, #399220 0%, #39a61b 50%, #43b723 100%); */
+  background-color: #5aa445;
   padding: 80px 10%;
   color: white;
   text-align: center;
@@ -94,7 +95,7 @@ body {
 
 .highlight {
   background-color: white;
-  color: #1ea937;
+  color: #5aa445;
   padding: 2px 6px;
   border-radius: 4px;
 }
@@ -158,7 +159,7 @@ body {
 .features-title {
   font-size: 60px;
   font-weight: 600;
-  color: #2eaa4a;
+  color: #5aa445;
   margin-bottom: 10px;
 }
 
@@ -176,7 +177,8 @@ body {
 }
 
 .feature-card {
-  background: linear-gradient(135deg, #6fed4b, #399220);
+  /* background: linear-gradient(135deg, #6fed4b, #399220); */
+  background-color: #5aa445;
   color: #fff;
   padding: 30px 20px;
   width: 220px;
@@ -230,7 +232,7 @@ body {
 
 .product-head {
   font-size: 45px;
-   color: #2eaa4a;
+   color: #5aa445;
   margin-bottom: 10px;
 }
 
@@ -243,7 +245,7 @@ body {
 .sub-heading {
   font-size: 20px;
   margin-bottom: 10px;
-  color: #399220;
+  color: #5aa445;
 }
 
 .config-list {
@@ -308,7 +310,7 @@ body {
 /* ////////////////// */
 
 .testimonial-sec {
-  background: linear-gradient(135deg, #399220 0%, #39a61b 50%, #43b723 100%);
+ background-color: #5aa445;
   padding: 60px 20px;
   font-family: "Arial", sans-serif;
 }
@@ -526,14 +528,14 @@ body {
 }
 
 .faq-left span {
-  color: #22bb33;
+  color: #5aa445;
 }
 
 .faq-btn {
   display: block;
   margin-bottom: 16px;
   padding: 14px 20px;
-  background: #22bb33;
+  background: #5aa445;
   color: white;
   font-weight: 600;
   border: none;
@@ -563,7 +565,7 @@ body {
 }
 
 .faq-item.active {
-  background: #22bb33;
+  background: #5aa445;
   color: white;
 }
 
