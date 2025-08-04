@@ -229,7 +229,7 @@ body {
 }
 
 .product-head {
-  font-size: 50px;
+  font-size: 45px;
    color: #2eaa4a;
   margin-bottom: 10px;
 }
@@ -439,6 +439,56 @@ body {
   }
   .product-para {
     font-size: 18px;
+  }
+}
+
+/* Laptop screen styles (1024px to 1366px) */
+@media (min-width: 1024px) and (max-width: 1366px) {
+  .main-head {
+    font-size: 48px;
+  }
+
+  .main-para {
+    font-size: 18px;
+  }
+
+  .features-title {
+    font-size: 40px;
+  }
+
+  .features-subtitle {
+    font-size: 15px;
+  }
+
+  .product-head {
+    font-size: 40px;
+  }
+
+  .product-para {
+    font-size: 18px;
+  }
+
+  .about-head {
+    font-size: 30px;
+  }
+
+  .faq-left h2 {
+    font-size: 30px;
+  }
+
+  .buy-btn,
+  .buy-btn2 {
+    font-size: 15px;
+    padding: 12px 28px;
+  }
+
+  .feature-card {
+    width: 200px;
+  }
+
+  .stat-card {
+    width: 180px;
+    padding: 25px 15px;
   }
 }
 
