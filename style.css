@@ -234,7 +234,7 @@ a.icons:hover {
 }
 
 .image-container img {
-  width: 400px; /* increase width */
+  width: 480px; /* increase width */
   height: 350px; /* manually increase height */
   object-fit: cover; /* ensure image covers the area */
   max-width: 100%;
@@ -242,6 +242,9 @@ a.icons:hover {
   border-top-left-radius: 100px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
 }
+
+
+
 
 
 /* /////////////////////////////////// */
